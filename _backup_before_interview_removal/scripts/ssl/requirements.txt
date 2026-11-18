@@ -1,0 +1,4 @@
+# Python 3.11 or 3.12 (MediaPipe has no wheels for newer Python yet)
+mediapipe>=0.10.14,<0.11
+opencv-python>=4.9
+numpy>=1.26
